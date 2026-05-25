@@ -1,0 +1,609 @@
+Start of a transcript of:
+
+Before Andromeda: The Sky Breaks
+Episode 1 - The Sky Breaks by Saturnio Games
+Release 1 / Serial number 260525 / Inform 7 v10.1.2 / D
+Inform 7 v10.1.2
+Identification number: //50F114AA-42D1-492E-B1B0-3EEB5077581A//
+Interpreter version 0.6.1 / VM 3.1.3
+
+>talk to zarb
+Zarb communicates through a series of soft bioluminescent pulses and deliberate gestures. Somehow, you understand every word.
+
+"Something fell from the sky -- to the west. It burns, and it brought soldiers with it. They will push deeper into the forest. We must warn the camp, but the elder will not act on my word alone. Xilar carries the elder's trust."
+
+He pauses, his skin flickering with anxious light.
+
+"Xilar was scouting the Ravine when the debris came down on him. Please -- free him first. Go EAST to find him. Type HELP XILAR when you reach him."
+
+>use telepathy
+You close your eyes and push a weak telepathic signal outward through the forest network.
+
+For a moment, nothing. Then a tremor moves through the bioluminescent light all around you -- the plants respond like a living relay, carrying your signal through root and spore and branch.
+
+
+Zarb spins toward you, eyes wide.
+
+"You... you sent that?" His skin flashes bright white with shock.
+
+
+The forest hums softly in reply.
+
+[Your score has just gone up by two points.]
+
+>g
+You have already sent the signal. A faint mental echo still lingers at the edge of your awareness.
+
+>e
+
+Ravine
+A deep, rocky ravine. The walls are jagged and the air is cold and damp. Somewhere beneath the fallen debris you can hear faint, pained breathing.
+
+To the WEST the glow of the forest beckons. Below you, darkness hints at underground tunnels -- go DOWN to explore them.
+
+You can see Xilar here.
+
+>use telepathy
+You have already sent the signal. A faint mental echo still lingers at the edge of your awareness.
+
+>talk to xilar
+Xilar winces in pain but holds your gaze with clear, determined eyes.
+
+"The debris... I cannot shift it alone. Free me, and I will lead you past the fallen tree to the camp. The elder must be warned before the humans reach the treeline."
+
+He glances at the rubble pressing down on him.
+
+Type HELP XILAR to attempt to free him.
+
+>help xilar
+You brace yourself and drag the heavy debris aside piece by piece. It takes every ounce of your strength.
+
+Xilar pulls himself free with a sharp exhale, checks his injuries with practised calm, and rises to his feet.
+
+"Thank you," he says simply. "The camp -- now. Follow me back WEST. I know a way around the fallen tree."
+
+The northern path to the Ghanrion Camp is now accessible -- return WEST to the forest, and then go NORTH.
+
+[Your score has just gone up by five points.]
+
+>talk to xilar
+You can't see any such thing.
+
+>w
+
+Bioluminescent Forest
+A vast forest where every plant pulses with soft blue and green light. Bioluminescent spores drift like slow snow between towering trees, and the air hums with quiet, ancient life.
+
+A massive fallen tree blocks the northern path to the Ghanrion Camp. To the EAST the ground drops away toward the Ravine, and to the WEST a rocky path climbs toward the Observation Rock.
+
+You can see Xilar and Zarb here.
+
+>talk to xilar
+Xilar nods with quiet, steady gratitude.
+
+"I owe you a debt I will not forget. These forests hold no secrets from me. The fallen tree across the north path is no obstacle -- I know every hidden trail. Walk with me and I will guide you safely to the camp."
+
+He glances north. "You can go NORTH now from the forest."
+
+>use telepathy
+You have already sent the signal. A faint mental echo still lingers at the edge of your awareness.
+
+>n
+
+Ghanrion Camp
+A living settlement woven among ancient trees. Bioluminescent lanterns sway between branches, casting the settlement in warm, shifting light. The elder Vael moves with quiet authority between the shelters.
+
+To the SOUTH lies the Bioluminescent Forest.
+
+You can see Vael here.
+
+The moment you arrive at the camp, the ground shakes with the deep percussion of approaching footsteps.
+
+Human soldiers emerge from the southern treeline, weapons raised, visors reflecting the bioluminescent light. The entire camp falls utterly silent.
+
+Vael steps forward alone. His arms are wide, his palms open. His voice is very low.
+
+"They are afraid. And fear, more than hatred, makes them dangerous."
+
+He turns to you.
+
+"What will you do?"
+
+
+
+You have three choices:
+
+  HELP VAEL -- Step forward and stand beside the elder.
+
+  GUIDE YOUNG -- Lead the children and elders through the underground tunnels to safety.
+
+  OBSERVE -- Pull back into the shadows and bear witness.
+
+[Your score has just gone up by five points.]
+
+>observe
+You step back into the deep shadow of the trees and become very still.
+
+Vael speaks to the soldiers in slow, measured tones. They cannot understand his words, but his absolute calm is a language of its own -- one that transcends species and training and fear.
+
+The standoff holds. Neither side advances. Neither side fires.
+
+Hours pass. Eventually the soldiers withdraw toward the crash site. Vael watches them go, unmoving, until the last footstep fades.
+
+He does not look for you. But as he finally turns back toward the camp, you have the quiet sense that he always knew you were there.
+
+You wonder, in the long silence that follows, what your presence beside him might have changed.
+
+
+
+    *** The Silent Witness -- You watched, but did not act. Some choices are made by not choosing. The forest will remember. ***
+
+
+In that game you scored 12 out of a possible 20, in 12 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> undo
+Ghanrion Camp
+[Previous turn undone.]
+
+>help vael
+You walk forward and stand beside Vael.
+
+The soldiers freeze.
+
+Something about the image -- the ancient elder and a being they cannot categorise, standing together without weapons, without aggression, without fear -- fractures their certainty. Training accounts for hostility. It does not account for this.
+
+A long silence stretches across the camp. The wind moves through the luminescent leaves.
+
+Slowly, one soldier lowers his weapon. Then another. Then all of them.
+
+Vael places a hand on your shoulder and says nothing. He does not need to.
+
+Behind you, the camp exhales.
+
+
+
+    *** A Fragile Peace -- You stood with the Ghanrion and turned fear into stillness. The first step toward understanding has been taken. ***
+
+
+In that game you scored 17 out of a possible 20, in 12 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> undo
+Ghanrion Camp
+[Previous turn undone.]
+
+>guide young
+You move quickly and without a word, gathering the young Ghanrion with calm, urgent gestures. Through the tunnels beneath the Ravine -- tunnels you now know well -- you lead them in single file through the glowing dark.
+
+Behind you, voices rise. Tense and confused. But no pursuit comes.
+
+The children emerge into the far forest, blinking in the cold air. One of the youngest looks back at you, her luminescent eyes wide and full of something that might be gratitude, or wonder, or both.
+
+Above ground, the standoff continues. You have saved some. The rest remains unwritten.
+
+
+
+    *** Partial Escape -- The young were saved. The fate of the camp is still unwritten. Perhaps that is enough for now. ***
+
+
+In that game you scored 15 out of a possible 20, in 12 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> undo
+Ghanrion Camp
+[Previous turn undone.]
+
+>s
+
+Bioluminescent Forest
+A vast forest where every plant pulses with soft blue and green light. Bioluminescent spores drift like slow snow between towering trees, and the air hums with quiet, ancient life.
+
+A massive fallen tree blocks the northern path to the Ghanrion Camp. To the EAST the ground drops away toward the Ravine, and to the WEST a rocky path climbs toward the Observation Rock.
+
+You can see Xilar and Zarb here.
+
+>w
+
+Observation Rock
+A high cliff with a sweeping view of the entire forest. The bioluminescent canopy stretches endlessly to the east and north. To the WEST, a column of black smoke rises against the sky -- something has crashed on your world.
+
+To the EAST, the path descends back into the forest.
+
+>e
+
+Bioluminescent Forest
+A vast forest where every plant pulses with soft blue and green light. Bioluminescent spores drift like slow snow between towering trees, and the air hums with quiet, ancient life.
+
+A massive fallen tree blocks the northern path to the Ghanrion Camp. To the EAST the ground drops away toward the Ravine, and to the WEST a rocky path climbs toward the Observation Rock.
+
+You can see Xilar and Zarb here.
+
+>w
+
+Observation Rock
+A high cliff with a sweeping view of the entire forest. The bioluminescent canopy stretches endlessly to the east and north. To the WEST, a column of black smoke rises against the sky -- something has crashed on your world.
+
+To the EAST, the path descends back into the forest.
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>e
+
+Bioluminescent Forest
+A vast forest where every plant pulses with soft blue and green light. Bioluminescent spores drift like slow snow between towering trees, and the air hums with quiet, ancient life.
+
+A massive fallen tree blocks the northern path to the Ghanrion Camp. To the EAST the ground drops away toward the Ravine, and to the WEST a rocky path climbs toward the Observation Rock.
+
+You can see Xilar and Zarb here.
+
+>n
+
+Ghanrion Camp
+A living settlement woven among ancient trees. Bioluminescent lanterns sway between branches, casting the settlement in warm, shifting light. The elder Vael moves with quiet authority between the shelters.
+
+To the SOUTH lies the Bioluminescent Forest.
+
+You can see Vael here.
+
+>help vael
+You walk forward and stand beside Vael.
+
+The soldiers freeze.
+
+Something about the image -- the ancient elder and a being they cannot categorise, standing together without weapons, without aggression, without fear -- fractures their certainty. Training accounts for hostility. It does not account for this.
+
+A long silence stretches across the camp. The wind moves through the luminescent leaves.
+
+Slowly, one soldier lowers his weapon. Then another. Then all of them.
+
+Vael places a hand on your shoulder and says nothing. He does not need to.
+
+Behind you, the camp exhales.
+
+
+
+    *** A Fragile Peace -- You stood with the Ghanrion and turned fear into stillness. The first step toward understanding has been taken. ***
+
+
+In that game you scored 20 out of a possible 20, in 19 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> undo
+Ghanrion Camp
+[Previous turn undone.]
+
+>s
+
+Bioluminescent Forest
+A vast forest where every plant pulses with soft blue and green light. Bioluminescent spores drift like slow snow between towering trees, and the air hums with quiet, ancient life.
+
+A massive fallen tree blocks the northern path to the Ghanrion Camp. To the EAST the ground drops away toward the Ravine, and to the WEST a rocky path climbs toward the Observation Rock.
+
+You can see Xilar and Zarb here.
+
+>w
+
+Observation Rock
+A high cliff with a sweeping view of the entire forest. The bioluminescent canopy stretches endlessly to the east and north. To the WEST, a column of black smoke rises against the sky -- something has crashed on your world.
+
+To the EAST, the path descends back into the forest.
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>
+I beg your pardon?
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>w
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>
+I beg your pardon?
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>g
+You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.
+
+"Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp."
+
+He draws you back into the shadow of the rocks. You return to the Observation Rock.
+
+[Your score has just gone up by three points.]
+
+>e
+
+Bioluminescent Forest
+A vast forest where every plant pulses with soft blue and green light. Bioluminescent spores drift like slow snow between towering trees, and the air hums with quiet, ancient life.
+
+A massive fallen tree blocks the northern path to the Ghanrion Camp. To the EAST the ground drops away toward the Ravine, and to the WEST a rocky path climbs toward the Observation Rock.
+
+You can see Xilar and Zarb here.
+
+>w
+
+Observation Rock
+A high cliff with a sweeping view of the entire forest. The bioluminescent canopy stretches endlessly to the east and north. To the WEST, a column of black smoke rises against the sky -- something has crashed on your world.
+
+To the EAST, the path descends back into the forest.
+
+>help vael
+You can't see any such thing.
+
+>help zael
+You can't see any such thing.
+
+>observe
+You step back into the deep shadow of the trees and become very still.
+
+Vael speaks to the soldiers in slow, measured tones. They cannot understand his words, but his absolute calm is a language of its own -- one that transcends species and training and fear.
+
+The standoff holds. Neither side advances. Neither side fires.
+
+Hours pass. Eventually the soldiers withdraw toward the crash site. Vael watches them go, unmoving, until the last footstep fades.
+
+He does not look for you. But as he finally turns back toward the camp, you have the quiet sense that he always knew you were there.
+
+You wonder, in the long silence that follows, what your presence beside him might have changed.
+
+
+
+    *** The Silent Witness -- You watched, but did not act. Some choices are made by not choosing. The forest will remember. ***
+
+
+In that game you scored 99 out of a possible 20, in 51 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> script off
+Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> quit

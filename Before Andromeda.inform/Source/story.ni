@@ -53,7 +53,7 @@ Instead of going north from Bioluminescent Forest when Helped Xilar is false:
 [==========================================================]
 
 Zarb is a man in Bioluminescent Forest.
-The description of Zarb is "A young Ghanrion, his skin faintly luminescent like the forest around him. His wide eyes carry both fear and urgent curiosity. He seems eager to communicate."
+The description of Zarb is "Is a young Ghanrion, his skin faintly luminescent like the forest around him. His wide eyes carry both fear and urgent curiosity. He seems eager to communicate."
 
 Xilar is a man in Ravine.
 The description of Xilar is "A Ghanrion warrior, currently trapped beneath a heavy piece of debris. Despite his injuries, his eyes are sharp and alert. He needs your help -- type HELP XILAR to attempt to free him."
@@ -149,12 +149,15 @@ Carry out telepathy:
 [==========================================================]
 
 Instead of going west from Observation Rock:
-	now Humans alerted is true;
-	now Captain Jack is in Human Crash Site;
 	if Helped Xilar is true:
-		increase the score by 3;
+		if Humans alerted is false:
+			increase the score by 3;
+		now Humans alerted is true;
+		now Captain Jack is in Human Crash Site;
 		say "You move toward the open ridge, but before you can step into the light, Xilar's hand closes firmly around your arm.[paragraph break]'Not yet. They are still searching the crash site. If they see us now, they will follow us straight back to the camp.'[paragraph break]He draws you back into the shadow of the rocks. You return to the Observation Rock.";
 	otherwise:
+		now Humans alerted is true;
+		now Captain Jack is in Human Crash Site;
 		say "You step out from the treeline toward the wreckage.[paragraph break]A sweep of white searchlight catches you immediately.[paragraph break]'CONTACT -- northeast perimeter!' a soldier shouts.[paragraph break]Boots hammer the ground. You have no time to run, and no ally to protect you.[paragraph break]";
 		end the story saying "Captured by Humans -- You approached the crash site alone and were detected. Return to the forest, find Xilar in the Ravine, and free him first."
 
