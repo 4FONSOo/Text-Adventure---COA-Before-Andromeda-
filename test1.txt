@@ -1,0 +1,262 @@
+Start of a transcript of
+
+Before Andromeda: The Sky Breaks
+Episode 1 - The Sky Breaks by Saturnio Games
+Release 1 / Serial number 260525 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+Identification number: //50F114AA-42D1-492E-B1B0-3EEB5077581A//
+Interpreter version 0.5.4 / VM 3.1.2 / Library serial number 080126
+Standard Rules version 3/120430 by Graham Nelson
+
+>freeze
+That's not a verb I recognise.
+
+>talk to Zarb
+That's not a verb I recognise.
+
+>talk Zarb
+That's not a verb I recognise.
+
+>examine Zarb
+You are Zarb. You can sense emotional signals from others through weak telepathy.
+
+>go s
+You can't go that way.
+
+>go n
+The fallen tree blocks the path. You must find another route.
+
+>destroy fallen tree~
+I only understood you as far as wanting to destroy the Fallen Tree.
+
+>destroy fallen tree
+Violence isn't the answer to this one.
+
+>jump over fallen tree
+I only understood you as far as wanting to jump.
+
+>jump fallen tree
+I only understood you as far as wanting to jump.
+
+>jump
+You jump on the spot.
+
+>go e
+
+Ravine
+A deep natural ravine carved into warm, mineral-rich rock.
+
+You can see Xilar here.
+
+>examine xilar
+A young Ghanrion trapped under a broken branch.
+
+>talk to xilar
+That's not a verb I recognise.
+
+>talk xilar
+That's not a verb I recognise.
+
+>speak to xilar
+I didn't understand that sentence.
+
+>lift broken branch
+That's not a verb I recognise.
+
+>examine broken branch
+You can't see any such thing.
+
+>save xilar
+I only understood you as far as wanting to save.
+
+>rescue xilar
+That's not a verb I recognise.
+
+>take xilar
+I don't suppose Xilar would care for that.
+
+>help xilar
+You free Xilar. He is injured but follows you.
+
+>go e
+You can't go that way.
+
+>go n
+You can't go that way.
+
+>go s
+You can't go that way.
+
+>go w
+
+Bioluminescent Forest
+A vast glowing forest where bioluminescent plants illuminate the silence. The world feels peaceful and untouched. You must explore de world around you. Or you can just stay freeze and don't play this awsome text adventure
+
+You can see Xilar and Zarb here.
+
+>go n
+The fallen tree blocks the path. You must find another route.
+
+>use xilar
+That's not a verb I recognise.
+
+>throw xilar at fallen tree
+(first taking Xilar)
+I don't suppose Xilar would care for that.
+
+>go w
+
+Observation Rock
+A high rocky ledge overlooking the forest and distant open terrain.
+
+>examine high rocky ledge
+You can't see any such thing.
+
+>go w
+There is nothing there yet.
+
+>go n
+You can't go that way.
+
+>go s
+You can't go that way.
+
+>examine distant open terrain
+You can't see any such thing.
+
+>examine forest
+You can't see any such thing.
+
+>jump
+You jump on the spot.
+
+>dance
+That's not a verb I recognise.
+
+>go e
+
+Bioluminescent Forest
+A vast glowing forest where bioluminescent plants illuminate the silence. The world feels peaceful and untouched. You must explore de world around you. Or you can just stay freeze and don't play this awsome text adventure
+
+You can see Xilar and Zarb here.
+
+>go e
+
+Ravine
+A deep natural ravine carved into warm, mineral-rich rock.
+
+>go below
+You can't see any such thing.
+
+>go inside
+You can't go that way.
+
+>go down
+Underground Tunnels
+Natural tunnels illuminated by faint bioluminescent flora.
+
+You can see a Bioluminescent Plant here.
+
+You enter the underground tunnels illuminated by natural bioluminescent life.
+
+>examine plant~
+You can't see any such thing.
+
+>examine plant
+A small plant emitting soft blue light.
+
+>go inside
+You can't go that way.
+
+>go e
+You can't go that way.
+
+>go w
+You can't go that way.
+
+>go n
+You can't go that way.
+
+>g s
+You can't go that way.
+
+>go up
+Ghanrion Camp
+A peaceful tribal settlement built among living vegetation.
+
+You can see Vael here.
+
+You emerge near the camp.
+
+Human forces have surrounded the camp. Elder Vael stands before their commander. You must decide quickly: act, guide, or observe.
+
+>examine vael
+The elder of the tribe, calm and respected.
+
+>take vael
+I don't suppose Vael would care for that.
+
+>observe
+You cannot make that decision here.
+
+>act
+That's not a verb I recognise.
+
+>guide
+I didn't understand that sentence.
+
+>decide act
+That's not a verb I recognise.
+
+>help vael
+You cannot make that decision here.
+
+>exit
+But you aren't in anything at the moment.
+
+>go n
+You can't go that way.
+
+>go e
+You can't go that way.
+
+>go down
+You can't go that way.
+
+>go up
+You can't go that way.
+
+>go s
+
+Bioluminescent Forest
+A vast glowing forest where bioluminescent plants illuminate the silence. The world feels peaceful and untouched. You must explore de world around you. Or you can just stay freeze and don't play this awsome text adventure
+
+You can see Xilar and Zarb here.
+
+>go n
+The fallen tree blocks the path. You must find another route.
+
+>go e
+
+Ravine
+A deep natural ravine carved into warm, mineral-rich rock.
+
+>go down
+Underground Tunnels
+Natural tunnels illuminated by faint bioluminescent flora.
+
+You can see a Bioluminescent Plant here.
+
+You enter the underground tunnels illuminated by natural bioluminescent life.
+
+>go up
+Ghanrion Camp
+A peaceful tribal settlement built among living vegetation.
+
+You can see Vael here.
+
+You emerge near the camp.
+
+>help vael
+You cannot make that decision here.
+
+>
