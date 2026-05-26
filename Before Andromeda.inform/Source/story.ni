@@ -337,6 +337,7 @@ When play begins:
 	say "   HELP XILAR              -- attempt to free a trapped ally in the Ravine[paragraph break]";
 	say "   FREE XILAR              -- same as above[paragraph break]";
 	say "   USE TELEPATHY           -- broadcast a weak mental signal through the forest[paragraph break]";
+	say "   LOOK MAP           -- look to all the possible directions in each location of the world[paragraph break]";
 	say "[paragraph break]";
 	say "[bold type]Story Choices[roman type] -- Available during the final sequence:[paragraph break]";
 	say "   HELP VAEL               -- stand with the elder[paragraph break]";
