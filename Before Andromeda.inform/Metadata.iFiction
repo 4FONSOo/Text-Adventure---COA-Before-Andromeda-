@@ -18,7 +18,11 @@
         <releases>
             <attached>
                 <release>
+<<<<<<< Updated upstream
                     <releasedate>2026-05-28</releasedate>
+=======
+                    <releasedate>2026-05-29</releasedate>
+>>>>>>> Stashed changes
                     <version>1</version>
                     <compiler>Inform 7</compiler>
                     <compilerversion>Inform 10.1.2 (build )</compilerversion>
@@ -28,10 +32,17 @@
         <colophon>
             <generator>Inform 7</generator>
             <generatorversion>Inform 10.1.2 (build )</generatorversion>
+<<<<<<< Updated upstream
             <originated>2026-05-28</originated>
         </colophon>
         <glulx>
             <serial>260528</serial>
+=======
+            <originated>2026-05-29</originated>
+        </colophon>
+        <glulx>
+            <serial>260529</serial>
+>>>>>>> Stashed changes
             <release>1</release>
             <compiler>Inform Inform 10.1.2 (build )</compiler>
         </glulx>

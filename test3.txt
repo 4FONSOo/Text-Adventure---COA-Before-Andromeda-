@@ -1,0 +1,326 @@
+Start of a transcript of:
+
+Before Andromeda: The Sky Breaks
+Episode 1 - The Sky Breaks by Saturnio Games
+Release 1 / Serial number 260529 / Inform 7 v10.1.2 / D
+Inform 7 v10.1.2
+Identification number: //50F114AA-42D1-492E-B1B0-3EEB5077581A//
+Interpreter version 0.6.1 / VM 3.1.3
+
+>w
+
+Observation Rock
+A high cliff with a sweeping view of the entire forest. The bioluminescent canopy stretches endlessly to the east and north. To the WEST, a column of black smoke rises against the sky -- something has crashed on your world.
+
+To the EAST, the path descends back into the forest.
+
+>n
+You can't go that way.
+
+>s
+You can't go that way.
+
+>w
+You step out from the treeline toward the wreckage.
+
+A sweep of white searchlight catches you immediately.
+
+"CONTACT -- northeast perimeter!" a soldier shouts.
+
+Boots hammer the ground. You have no time to run, and no ally to protect you.
+
+
+
+    *** Captured by Humans -- You approached the crash site alone and were detected. Return to the forest, find Xilar in the Ravine, and free him first. ***
+
+
+In that game you scored 0 out of a possible 20, in 4 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> restart
+
+
+
+
+============================================================
+
+        BEFORE ANDROMEDA: THE SKY BREAKS                    
+
+             Episode 1 -- The Sky Breaks                    
+
+============================================================
+
+
+
+You are Zaryn, a young Ghanrion -- a sentient being native to this
+
+bioluminescent world, gifted with weak but growing telepathic ability.
+
+Your people have lived in peaceful isolation within the forest for as
+
+long as memory reaches.
+
+
+
+Last night, something fell from the sky.
+
+
+
+Now the forest holds its breath.
+
+
+
+============================================================
+
+                     HOW TO PLAY                             
+
+============================================================
+
+
+
+Movement -- Navigate between locations:
+
+   NORTH  /  SOUTH  /  EAST  /  WEST  /  UP  /  DOWN
+
+
+
+Observation -- Learn about your surroundings:
+
+   LOOK                    -- describe the current room
+
+   EXAMINE <thing>       -- inspect a character or object
+
+   MAP  or  LOOK MAP       -- display the world map and all locations
+
+
+
+Characters -- Speak with the people around you:
+
+   TALK TO ZARB            -- speak with the young Ghanrion scout
+
+   TALK TO XILAR           -- speak with the wounded warrior (Ravine)
+
+   TALK TO VAEL            -- speak with the tribal elder (Ghanrion Camp)
+
+   TALK TO CAPTAIN JACK    -- speak with the human officer (Crash Site)
+
+
+
+Special Actions -- Interact with the world:
+
+   HELP XILAR              -- attempt to free a trapped ally in the Ravine
+
+   FREE XILAR              -- same as above
+
+   USE TELEPATHY           -- broadcast a weak mental signal through the forest
+
+   LOOK MAP           -- look to all the possible directions in each location of the world
+
+
+
+Story Choices -- Available during the final sequence:
+
+   HELP VAEL               -- stand with the elder
+
+   GUIDE YOUNG             -- lead the children to safety
+
+   OBSERVE                 -- watch events unfold
+
+
+
+Utility:
+
+   SCORE                   -- check your current score (max: 20)
+
+   INVENTORY  /  I         -- check what you are carrying
+
+   AGAIN  /  G             -- repeat the last command
+
+   QUIT                    -- end the game
+
+
+
+============================================================
+
+                     YOUR OBJECTIVE                          
+
+============================================================
+
+
+
+Explore the forest. Find your ally Xilar, trapped in the Ravine
+
+to the east, and free him. Then reach the Ghanrion Camp to warn
+
+your people. When the moment comes, choose how your people will face
+
+the humans who have crashed on your world.
+
+
+
+Your choices will determine the ending.
+
+
+
+TIP: Start by talking to the character beside you. Type TALK TO ZARB.
+
+
+
+The forest glows softly around you. Zarb stands nearby, watching
+
+the eastern sky with restless, flickering eyes.
+
+Before Andromeda: The Sky Breaks
+Episode 1 - The Sky Breaks by Saturnio Games
+Release 1 / Serial number 260529 / Inform 7 v10.1.2 / D
+
+Bioluminescent Forest
+A vast forest where every plant pulses with soft blue and green light. Bioluminescent spores drift like slow snow between towering trees, and the air hums with quiet, ancient life.
+
+A massive fallen tree blocks the northern path to the Ghanrion Camp. To the EAST the ground drops away toward the Ravine, and to the WEST a rocky path climbs toward the Observation Rock.
+
+You can see Zarb here.
+
+>w
+
+Observation Rock
+A high cliff with a sweeping view of the entire forest. The bioluminescent canopy stretches endlessly to the east and north. To the WEST, a column of black smoke rises against the sky -- something has crashed on your world.
+
+To the EAST, the path descends back into the forest.
+
+>use telepathy
+You close your eyes and push a weak telepathic signal outward through the forest network.
+
+For a moment, nothing. Then a tremor moves through the bioluminescent light all around you -- the plants respond like a living relay, carrying your signal through root and spore and branch.
+
+
+The forest hums softly in reply.
+
+[Your score has just gone up by two points.]
+
+>e
+
+Bioluminescent Forest
+A vast forest where every plant pulses with soft blue and green light. Bioluminescent spores drift like slow snow between towering trees, and the air hums with quiet, ancient life.
+
+A massive fallen tree blocks the northern path to the Ghanrion Camp. To the EAST the ground drops away toward the Ravine, and to the WEST a rocky path climbs toward the Observation Rock.
+
+You can see Zarb here.
+
+>e
+
+Ravine
+A deep, rocky ravine. The walls are jagged and the air is cold and damp. Somewhere beneath the fallen debris you can hear faint, pained breathing.
+
+To the WEST the glow of the forest beckons. Below you, darkness hints at underground tunnels -- go DOWN to explore them.
+
+You can see Xilar here.
+
+>examine xilar
+A Ghanrion warrior, currently trapped beneath a heavy piece of debris. Despite his injuries, his eyes are sharp and alert. He needs your help -- type HELP XILAR to attempt to free him.
+
+>help xilar
+You brace yourself and drag the heavy debris aside piece by piece. It takes every ounce of your strength.
+
+Xilar pulls himself free with a sharp exhale, checks his injuries with practised calm, and rises to his feet.
+
+"Thank you," he says simply. "The camp -- now. Follow me back WEST. I know a way around the fallen tree."
+
+The northern path to the Ghanrion Camp is now accessible -- return WEST to the forest, and then go NORTH.
+
+[Your score has just gone up by five points.]
+
+>w
+
+Bioluminescent Forest
+A vast forest where every plant pulses with soft blue and green light. Bioluminescent spores drift like slow snow between towering trees, and the air hums with quiet, ancient life.
+
+A massive fallen tree blocks the northern path to the Ghanrion Camp. To the EAST the ground drops away toward the Ravine, and to the WEST a rocky path climbs toward the Observation Rock.
+
+You can see Xilar and Zarb here.
+
+>examine zarb
+Is a young Ghanrion, his skin faintly luminescent like the forest around him. His wide eyes carry both fear and urgent curiosity. He seems eager to communicate.
+
+>talk zarb
+I didn't understand that sentence.
+
+>talk xilar
+I didn't understand that sentence.
+
+>talk to zarb
+Zarb communicates through a series of soft bioluminescent pulses and deliberate gestures. Somehow, you understand every word.
+
+"Something fell from the sky -- to the west. It burns, and it brought soldiers with it. They will push deeper into the forest. We must warn the camp, but the elder will not act on my word alone. Xilar carries the elder's trust."
+
+He pauses, his skin flickering with anxious light.
+
+"Xilar was scouting the Ravine when the debris came down on him. Please -- free him first. Go EAST to find him. Type HELP XILAR when you reach him."
+
+>talk xilar
+I didn't understand that sentence.
+
+>talk to xilar
+Xilar nods with quiet, steady gratitude.
+
+"I owe you a debt I will not forget. These forests hold no secrets from me. The fallen tree across the north path is no obstacle -- I know every hidden trail. Walk with me and I will guide you safely to the camp."
+
+He glances north. "You can go NORTH now from the forest."
+
+>n
+
+Ghanrion Camp
+A living settlement woven among ancient trees. Bioluminescent lanterns sway between branches, casting the settlement in warm, shifting light. The elder Vael moves with quiet authority between the shelters.
+
+To the SOUTH lies the Bioluminescent Forest.
+
+You can see Vael here.
+
+The moment you arrive at the camp, the ground shakes with the deep percussion of approaching footsteps.
+
+Human soldiers emerge from the southern treeline, weapons raised, visors reflecting the bioluminescent light. The entire camp falls utterly silent.
+
+Vael steps forward alone. His arms are wide, his palms open. His voice is very low.
+
+"They are afraid. And fear, more than hatred, makes them dangerous."
+
+He turns to you.
+
+"What will you do?"
+
+
+
+You have three choices:
+
+  HELP VAEL -- Step forward and stand beside the elder.
+
+  GUIDE YOUNG -- Lead the children and elders through the underground tunnels to safety.
+
+  OBSERVE -- Pull back into the shadows and bear witness.
+
+[Your score has just gone up by five points.]
+
+>guide young
+You move quickly and without a word, gathering the young Ghanrion with calm, urgent gestures. Through the tunnels beneath the Ravine -- tunnels you now know well -- you lead them in single file through the glowing dark.
+
+Behind you, voices rise. Tense and confused. But no pursuit comes.
+
+The children emerge into the far forest, blinking in the cold air. One of the youngest looks back at you, her luminescent eyes wide and full of something that might be gratitude, or wonder, or both.
+
+Above ground, the standoff continues. You have saved some. The rest remains unwritten.
+
+
+
+    *** Partial Escape -- The young were saved. The fate of the camp is still unwritten. Perhaps that is enough for now. ***
+
+
+In that game you scored 15 out of a possible 20, in 12 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> script off
+Please give one of the answers above.
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> quit
